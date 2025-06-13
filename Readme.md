@@ -91,7 +91,7 @@ drive.mount('/content/drive')
   ```
 
 ## Deployed Site
-- (Contoh) https://casheye.vercel.app
+- https://casheye.my.id
 
 ## Dataset
 - [Uang Kertas Indonesia Dataset | Kaggle](https://www.kaggle.com/datasets)
