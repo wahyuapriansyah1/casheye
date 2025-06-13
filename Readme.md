@@ -1,4 +1,4 @@
-# 🌿 CC25-SF015 — Capstone Project — Green Economy & Green Jobs Theme
+# 🌿 Capstone Project — Casheye 
 
 ## Deskripsi
 Casheye adalah aplikasi berbasis web yang membantu tunanetra mengenali uang menggunakan kamera. Aplikasi ini sudah mendukung Progressive Web App (PWA), sehingga bisa di-install di HP/PC seperti aplikasi native.
