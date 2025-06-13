@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pillow
+torch==1.13.1
+numpy
+pandas

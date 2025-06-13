@@ -91,17 +91,16 @@ drive.mount('/content/drive')
   ```
 
 ## Deployed Site
-- https://casheye.my.id
+- https://www.casheye.my.id
 
 ## Dataset
-- [Uang Kertas Indonesia Dataset | Kaggle](https://www.kaggle.com/datasets)
+- https://drive.google.com/drive/folders/1Am0qwBWsX9ZzIrIpQ2LzS2gilUxq-oID
 
 ## Video Presentation
-- (Unlisted YouTube Link)
+- https://youtu.be/Yih2nWa8bfA
 
 ## Presentation Slides
-- (Canva/Google Slides Link)
-
+- https://docs.google.com/presentation/d/14HF9PNM1O3lZnqoVAn0lX08RHu033ZV1/edit?usp=drivesdk&ouid=111271282451661208350&rtpof=true&sd=true
 ---
 
 ## Kebutuhan Sistem
